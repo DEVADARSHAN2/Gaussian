@@ -34,8 +34,8 @@ End the program.
 ## Program:
 ```
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: G Dario
-RegisterNumber: 22008843
+Developed by: DEVADARSHAN A S
+RegisterNumber: 212222110007
 
 import numpy as np
 import sys
